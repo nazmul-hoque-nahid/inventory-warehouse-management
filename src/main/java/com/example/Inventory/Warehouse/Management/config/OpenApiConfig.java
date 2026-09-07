@@ -8,9 +8,9 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @OpenAPIDefinition(
         info = @Info(
-                title = "Library Management API",
+                title = "Warehouse and Inventory Management API",
                 version = "1.0",
-                description = "REST API for Library Management System"
+                description = "REST API for Warehouse  Management System"
         )
 )
 @SecurityScheme(
